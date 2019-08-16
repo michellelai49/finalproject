@@ -1,0 +1,58 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+header {
+  color: black;
+  background-image: url("https://3.bp.blogspot.com/--d5RZx6rsII/XHvZerHbXCI/AAAAAAAALXw/fcIAAEg2VdcWd4pPL_cbmhUqx3rpD6DHACHMYCw/s1600/backgrounds-passion-simple-image-customize-download-it-for.jpg");
+}
+
+p, h1{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+h2 {
+  font-family: 'Liu Jian Mao Cao', cursive;
+  color: #2874A6;
+}
+.hi{
+  font-family: 'Dancing Script', cursive;
+}
+.hobbies{
+background-image: url("https://backgrounddownload.com/wp-content/uploads/2018/09/background-ppt-putih-elegan-1.jpg");
+}
+p, h1, h2, h3{
+  padding: 10px;
+}
+body {
+  background-image: url("project/images/bg-polygon4.jpg");
+}
+.goals {
+  background-image: url("https://imss.ca/wp-content/uploads/2019/02/backg.jpg");
+}
+.goals img{
+border-radius: 70%;
+float: right;
+margin-right: 400px;
+}
+.goals p{
+padding: 100px;
+font-size: 40;
+margin-left: 300px;
+}
+.about{
+  background-image: url("https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Simple-Background-Images-2.png");
+}
+footer {
+  background: white;
+  margin: 5px;
+}
+
+h1, h2 {
+  margin:5px, 0px, 5px;
+}
+img {
+  margin: 10px 30px 10px 30px;
+}
